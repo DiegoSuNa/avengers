@@ -5,7 +5,6 @@
 * Black Widow
 * Capitán America
 * Capitán Marvel
-
 * Hank Pym
 * Hawkeye
 * Hulk
@@ -18,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Nick Fury
